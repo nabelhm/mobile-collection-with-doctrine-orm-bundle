@@ -1,0 +1,13 @@
+{
+    "name": "cubalider/mobile-collection-with-doctrine-orm-bundle",
+    "type": "symfony-bundle",
+    "require": {
+        "php": ">=5.3.0",
+        "cubalider/mobile-collection-with-doctrine-orm": "0.1.*",
+        "symfony/framework-bundle": "2.4.*"
+    },
+    "autoload": {
+        "psr-0": { "Cubalider\\Bundle\\MobileCollectionBundle": "" }
+    },
+    "target-dir": "Cubalider/Bundle/MobileCollectionBundle"
+}
